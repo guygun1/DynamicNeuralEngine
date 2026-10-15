@@ -1,0 +1,49 @@
+# Elementary facts, with qualifications where they matter.
+what color is the daytime sky in clear weather? | the daytime sky usually looks blue in clear weather.
+what color is grass? | healthy grass is usually green.
+what color is snow? | clean snow usually looks white.
+what color is a ripe banana? | a ripe banana is usually yellow.
+is fire hot? | yes fire is hot.
+what is ice? | ice is frozen water.
+what happens when ice warms up? | ice melts into liquid water.
+what happens when water freezes? | water becomes ice.
+what is steam? | steam is water vapor.
+what falls from clouds as liquid drops? | rain falls from clouds as liquid drops.
+what is snow made of? | snow is made of ice crystals.
+what do plants need to grow? | most plants need water light air and nutrients.
+what do roots do? | roots take in water and nutrients.
+what do leaves do? | leaves help plants use light to make food.
+what grows from a seed? | a new plant can grow from a seed.
+what is a tree? | a tree is a plant with a woody trunk.
+what is a flower? | a flower is a reproductive part of a flowering plant.
+what is a fruit? | a fruit develops from a flower and usually contains seeds.
+what is an animal? | an animal is a living organism that gets energy by eating other organisms or their products.
+what is a mammal? | a mammal is an animal that feeds its young with milk.
+is a cat a mammal? | yes a cat is a mammal.
+is a dog a mammal? | yes a dog is a mammal.
+how many legs does a cat usually have? | a cat usually has four legs.
+how many legs does an insect have? | an insect has six legs.
+what do fish use to breathe? | most fish use gills to breathe in water.
+what do birds have on their bodies? | birds have feathers.
+can all birds fly? | no some birds cannot fly.
+what do bees make? | honey bees make honey.
+what is earth? | Earth is the planet where humans live, and the third planet from the Sun. It has liquid water at its surface, an atmosphere, and a wide variety of living organisms. Its atmosphere and magnetic environment help make conditions suitable for life.\n\nEarth rotates to produce day and night and travels around the Sun over the course of a year. Its surface is continually shaped by processes such as plate tectonics, erosion, weather, and the activities of living things.
+what is the moon? | The Moon is Earth's natural satellite. It travels around Earth and reflects sunlight rather than producing visible light through nuclear fusion like a star. Its changing phases result from how much of its illuminated side we can see from Earth.\n\nThe Moon's gravity contributes strongly to ocean tides. Its surface preserves evidence of impacts and ancient volcanic activity. It also provides scientists with important information about the early history of Earth and the solar system.
+does earth orbit the sun? | yes earth orbits the sun.
+why do we have day and night? | earth rotates so different places face the sun at different times.
+what is an ocean? | an ocean is a very large body of salt water.
+what is a river? | a river is a natural stream of flowing water.
+what is a mountain? | a mountain is a large natural rise in the land.
+what is a forest? | a forest is an area with many trees.
+what is a desert? | a desert is a region with very little precipitation.
+what is a map? | a map represents places and their locations.
+what do we use to see? | people use their eyes to see.
+what do we use to hear? | people use their ears to hear.
+what does the heart do? | the heart pumps blood through the body.
+what do lungs do? | lungs help the body exchange oxygen and carbon dioxide.
+why do people drink water? | people need water for their bodies to function.
+why do people eat food? | food supplies energy and nutrients.
+why do people sleep? | sleep supports rest memory and health.
+what is a solid? | a solid usually keeps its shape and volume.
+what is a liquid? | a liquid flows and takes the shape of its container.
+what is a gas? | a gas expands to fill its container.

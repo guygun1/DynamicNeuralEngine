@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DynamicNeuralEngine.Trainer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+089f221b6edfa5f4007a941452271a9d01ef2417")]
 [assembly: System.Reflection.AssemblyProductAttribute("DynamicNeuralEngine.Trainer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DynamicNeuralEngine.Trainer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

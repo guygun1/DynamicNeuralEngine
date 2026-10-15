@@ -1,0 +1,11 @@
+# These reference answers are NOT read by the curriculum loader.
+# The experiment runner tests proposals first, then reveals corrections for failures.
+# Exact normalized answer matching is deliberately strict, not a truth oracle.
+what is six plus six? | 6 + 6 = 12.
+what is seven plus three? | 7 + 3 = 10.
+what is eight minus three? | 8 - 3 = 5.
+what is the opposite of noisy? | the opposite of noisy is quiet.
+what is the opposite of empty? | the opposite of empty is full.
+what is the plural of leaf? | the plural of leaf is leaves.
+what is the past tense of drink? | the past tense of drink is drank.
+what is a baby cat called? | a baby cat is called a kitten.

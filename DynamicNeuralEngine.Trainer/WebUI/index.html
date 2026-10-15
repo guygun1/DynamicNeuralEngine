@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>Dynamic Neural Engine</title>
+  <link rel="stylesheet" href="/assets/app.css">
+  <script src="/assets/app.js" defer></script>
+</head>
+<body>
+<div class="app">
+  <aside class="sidebar" id="sidebar">
+    <div class="brand"><span class="brand-icon">N</span><div>Dynamic Neural<span>LOCAL LEARNING WORKSPACE</span></div></div>
+    <button id="newChat" class="button wide">+ New conversation</button>
+    <section class="workspace-section">
+      <div class="section-title">DEVELOPMENT DIRECTORY</div>
+      <button id="pickFolder" class="button wide accent-outline">Choose folder…</button>
+      <form id="workspaceForm"><label class="sr-only" for="workspacePath">Development directory path</label><input id="workspacePath" placeholder="Or enter a full directory path" autocomplete="off"><button class="button small" type="submit">Use path</button></form>
+      <div id="workspaceStatus" class="muted small-text" role="status">Select a workspace to browse and edit files.</div>
+    </section>
+    <div class="section-title file-heading">FILES <span><button class="icon-button" id="newFile" title="New file" aria-label="New file">+</button><button class="icon-button" id="refreshFiles" title="Refresh files" aria-label="Refresh files">↻</button></span></div>
+    <label class="sr-only" for="fileFilter">Filter files</label><input id="fileFilter" placeholder="Filter files…" autocomplete="off">
+    <nav id="files" class="file-list" aria-label="Workspace files"></nav>
+    <div class="model-box"><label class="section-title" for="modelSelect">MODEL</label><div class="model-row"><select id="modelSelect" aria-label="Model"></select><button id="newModel" class="icon-button" title="Create a model" aria-label="Create a model">+</button></div><div class="muted small-text">C# coding target · compact local brain</div></div>
+  </aside>
+  <main class="main">
+    <header class="topbar"><div class="top-left"><button id="toggleSidebar" class="icon-button" aria-label="Toggle workspace sidebar">☰</button><div><strong id="workspaceName">Your workspace</strong><span id="rootLabel" class="root-label">Choose a development directory</span></div></div><div class="top-actions"><span id="webStatus" class="badge">Local</span><button id="toggleActivity" class="button small">Activity</button></div></header>
+    <div class="tabs" role="tablist"><button class="tab active" id="chatTab" role="tab" aria-selected="true">Conversation</button><button class="tab" id="editorTab" role="tab" aria-selected="false">Editor <span id="dirtyDot"></span></button><span class="prototype-label">Experimental learning engine</span></div>
+    <section id="chatView" class="chat-view">
+      <div id="chatScroll" class="chat-scroll"><div id="welcome" class="welcome"><div class="welcome-symbol">N</div><h1>A local space to think<br>and build.</h1><p>Talk to your learning engine, work with files, and check knowledge across sources. Your model stays on this computer.</p><div class="suggestions"><button data-prompt="is a robin a living organism?"><strong>Connect learned facts</strong><span>Inspect a multi-step deduction</span></button><button data-prompt="23 * (17 - 5)"><strong>Calculate something</strong><span>Use actual arithmetic</span></button><button id="welcomeResearch"><strong>Cross-check a topic</strong><span>Require agreement between websites</span></button><button id="welcomeCode"><strong>Learn a C# function</strong><span>Synthesize and test from examples</span></button></div><div class="welcome-note">This is a research prototype. General autonomous coding and AGI are not established capabilities.</div></div><div id="messages" class="messages" aria-live="polite"></div></div>
+      <div class="composer-area"><div class="quick-tools"><button id="researchButton">◎ Research</button><button id="codeButton">⌘ C# function</button><button id="toolsButton">⚙ Tools</button></div><form id="chatForm" class="composer"><label class="sr-only" for="prompt">Message</label><textarea id="prompt" rows="2" placeholder="Ask a question, explain an idea, or use /help…" spellcheck="true"></textarea><div class="composer-bottom"><span>Enter to send · Shift+Enter for a new line</span><button id="stopButton" type="button" class="button small" hidden>Stop</button><button id="sendButton" type="submit" class="send-button" aria-label="Send message">↑</button></div></form><div class="composer-note">Source agreement is evidence, not proof of truth. Review code and actual test results.</div></div>
+    </section>
+    <section id="editorView" class="editor-view" hidden><div class="editor-toolbar"><div><strong id="editorPath">No file selected</strong><span id="editorMeta" class="muted small-text">Choose a file from the sidebar.</span></div><button id="saveFile" class="button primary small" disabled>Save · Ctrl+S</button></div><label class="sr-only" for="editor">Source editor</label><textarea id="editor" class="source-editor" spellcheck="false" wrap="off" disabled placeholder="Select a file to open it here."></textarea></section>
+  </main>
+  <aside id="activityPanel" class="activity-panel" hidden><div class="activity-header"><strong>Tool activity</strong><button id="closeActivity" class="icon-button" aria-label="Close activity">×</button></div><p class="muted small-text">Actual tool calls, results, diffs, and durations.</p><div id="activity" class="activity-list"></div></aside>
+</div>
+<div id="toast" class="toast" role="status" hidden></div>
+<dialog id="researchDialog"><form id="researchForm"><div class="dialog-title"><h2>Cross-check knowledge</h2><button type="button" class="icon-button" data-close>×</button></div><p class="muted">Read multiple sites and retain only corroborated claims. Duplicate pages and subdomains do not provide extra votes.</p><label>Topic<input name="query" required placeholder="For example: quokka"></label><label>Remember under this question (optional)<input name="question" placeholder="For example: what is a quokka?"></label><label>Minimum different sites<select name="minimum"><option value="2">2 sites</option><option value="3">3 sites</option></select></label><button type="submit" class="button primary">Research and learn</button></form></dialog>
+<dialog id="codeDialog"><form id="codeForm"><div class="dialog-title"><h2>Learn a C# function</h2><button type="button" class="icon-button" data-close>×</button></div><p class="muted">Bounded integer-expression synthesis with real compilation. This does not generate arbitrary applications.</p><div class="form-row"><label>Function name<input name="name" required value="TwicePlusOne" pattern="[a-zA-Z_][a-zA-Z0-9_]*"></label><label>Variables, comma separated<input name="variables" required value="x"></label></div><label>Training cases: inputs =&gt; output<textarea name="examples" rows="4" required spellcheck="false">1 => 3
+2 => 5
+3 => 7</textarea></label><label>Separate validation cases<textarea name="validation" rows="3" spellcheck="false">10 => 21
+-4 => -7</textarea></label><label>New output file (optional)<input name="path" placeholder="src/Learned.cs"></label><button type="submit" class="button primary">Synthesize, compile, and test</button></form></dialog>
+<dialog id="toolDialog"><form id="toolForm"><div class="dialog-title"><h2>Run a skill</h2><button type="button" class="icon-button" data-close>×</button></div><label>Skill<select id="skillSelect" name="skill"></select></label><p id="skillDescription" class="muted"></p><label>JSON arguments<textarea name="arguments" rows="8" spellcheck="false">{}</textarea></label><details><summary>Argument schema</summary><pre id="skillSchema"></pre></details><button type="submit" class="button primary">Run skill</button></form></dialog>
+<dialog id="modelDialog"><form id="modelForm"><div class="dialog-title"><h2>Create a local model</h2><button type="button" class="icon-button" data-close>×</button></div><label>Model name<input name="name" required pattern="[a-zA-Z0-9][a-zA-Z0-9_-]{0,63}" placeholder="my-learner"></label><p class="muted">Each model has one brain file. Its initial teaching target is English and C#.</p><button type="submit" class="button primary">Create model</button></form></dialog>
+<dialog id="fileDialog"><form id="fileForm"><div class="dialog-title"><h2>New file</h2><button type="button" class="icon-button" data-close>×</button></div><label>Workspace-relative path<input name="path" required placeholder="src/Example.cs"></label><label>Content<textarea name="content" rows="10" spellcheck="false"></textarea></label><button type="submit" class="button primary">Create file</button></form></dialog>
+</body>
+</html>

@@ -1,0 +1,38 @@
+# Original micro-stories, one complete sentence per line.
+# Sentence boundaries are isolated by the trainer's TrainText calls.
+Mira puts a red book on the table.
+She opens the book after lunch.
+Mira reads a story about a boat.
+She closes the book before dinner.
+Leo looks outside and sees rain.
+He takes an umbrella from the door.
+Leo walks to the library with his umbrella.
+He borrows a book about birds.
+Nora fills a pot with soil.
+She plants a seed in the pot.
+Nora waters the seed each morning.
+A small green shoot grows from the seed.
+Sam has three apples in a basket.
+He gives one apple to a friend.
+Sam has two apples left in the basket.
+His friend thanks him for the apple.
+A blue bus stops near the school.
+The children wait beside the bus stop.
+The driver opens the bus door.
+The children get on the bus.
+Ava feeds her cat before breakfast.
+The cat drinks water from a bowl.
+After eating the cat sleeps on a chair.
+Ava reads quietly beside the chair.
+Omar finds a broken wooden toy.
+He repairs the toy with glue.
+Omar waits for the glue to dry.
+The toy is ready to use again.
+Rain falls during the morning.
+The children play a game inside.
+The rain stops in the afternoon.
+The children go outside to play.
+Ella writes a letter to her grandmother.
+She puts the letter in an envelope.
+Ella writes an address on the envelope.
+Her grandmother receives the letter later.

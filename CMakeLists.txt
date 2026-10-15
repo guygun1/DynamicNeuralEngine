@@ -5,13 +5,33 @@ set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
-# Add all library files (headers and sources) for the shared core engine
+# Add all modular library files for the shared core engine and modalities
 add_library(DynamicNeuralEngine SHARED
         library.h
-        include/Neuron.hpp
-        include/Synapse.hpp
-        include/EmotionalState.hpp
+        include/core/Synapse.hpp
+        include/core/Neuron.hpp
+        include/core/EmotionalState.hpp
+        include/core/NeuralGraph.hpp
+        include/core/BrainPersistence.hpp
+        include/core/BrainCodec.hpp
+        include/modalities/IModalityAdapter.hpp
+        include/modalities/TextLanguageModality.hpp
+        include/modalities/DialogueMemory.hpp
+        include/modalities/ArithmeticReasoner.hpp
+        include/modalities/LanguageRequests.hpp
+        include/modalities/ConceptMemory.hpp
+        include/modalities/VisionVideoModality.hpp
+        include/modalities/Spatial3DModality.hpp
+        include/modalities/ComputerUseModality.hpp
         include/EngineState.hpp
+        src/core/NeuralGraph.cpp
+        src/core/BrainPersistence.cpp
+        src/core/BrainCodec.cpp
+        src/modalities/TextLanguageModality.cpp
+        src/modalities/DialogueMemory.cpp
+        src/modalities/ArithmeticReasoner.cpp
+        src/modalities/LanguageRequests.cpp
+        src/modalities/ConceptMemory.cpp
         src/EngineState.cpp
         src/library.cpp
 )
@@ -19,11 +39,13 @@ add_library(DynamicNeuralEngine SHARED
 # Ensure no "lib" prefix is added to the DLL name on Windows/MinGW
 set_target_properties(DynamicNeuralEngine PROPERTIES PREFIX "")
 
-# Force CMake to output the compiled DLL directly into the C# Trainer project folder
-set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/DynamicNeuralEngine.Trainer/bin/Debug/net8.0")
-set(CMAKE_LIBRARY_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/DynamicNeuralEngine.Trainer/bin/Debug/net8.0")
-
-
+# A single predictable native artifact; the C# build copies this DLL into its output.
+# Target properties must be set explicitly after add_library has created the target.
+set_target_properties(DynamicNeuralEngine PROPERTIES
+        RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/native"
+        RUNTIME_OUTPUT_DIRECTORY_DEBUG "${CMAKE_BINARY_DIR}/native"
+        RUNTIME_OUTPUT_DIRECTORY_RELEASE "${CMAKE_BINARY_DIR}/native"
+)
 
 # Tell the compiler where to look for header files
 target_include_directories(DynamicNeuralEngine PUBLIC

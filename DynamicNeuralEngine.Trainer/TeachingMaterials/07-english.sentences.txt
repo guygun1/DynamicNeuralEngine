@@ -1,0 +1,61 @@
+# Original graded sentences. Raw sequences supplement, rather than replace, dialogue training.
+I am here.
+You are there.
+He is reading.
+She is writing.
+We are learning.
+They are listening.
+It is a book.
+This is a chair.
+That is a table.
+These are apples.
+Those are trees.
+I have a pen.
+She has a pencil.
+We have two cups.
+The cat sits on the mat.
+The dog runs in the park.
+The bird rests in the tree.
+The fish swims in the pond.
+A small child opens the door.
+A tall person closes the window.
+The red cup is on the table.
+The blue bag is under the chair.
+The green tree is beside the house.
+The white cloud moves across the sky.
+The yellow flower grows near the path.
+I walk slowly.
+She speaks clearly.
+He listens carefully.
+They work together.
+We learn by practicing.
+I like apples and pears.
+She likes books and music.
+We can read or draw.
+The day is warm but the water is cold.
+I stay inside because it is raining.
+If the soil is dry the plant needs water.
+First wash the cup.
+Then fill the cup with water.
+Finally put the cup on the table.
+Before dinner we wash our hands.
+After dinner we clean the table.
+Yesterday I walked to the shop.
+Today I am reading at home.
+Tomorrow I will visit a friend.
+The door was open yesterday.
+The door is closed now.
+The door will be open tomorrow.
+I do not have a bicycle.
+She does not eat meat.
+They did not miss the bus.
+We cannot see through the wall.
+The empty box contains nothing.
+The full basket contains apples.
+A question asks for information.
+An answer responds to a question.
+A polite request can include the word please.
+People can disagree and still listen to each other.
+A mistake can be corrected with a clear example.
+A word can have more than one meaning.
+The meaning of a sentence depends on its context.

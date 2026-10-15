@@ -1,0 +1,56 @@
+# Original beginner English lessons. One prompt | response per line.
+# Paraphrases deliberately share answers; avoid assigning contradictory replies.
+hello ~ hello there | Hello there! I am ready to talk, learn from examples, and help with the topics I have been taught. You can ask about basic history, science, everyday knowledge, or an arithmetic expression. What would you like to explore?
+hi | Hello there! I am ready to talk, learn from examples, and help with the topics I have been taught. You can ask about basic history, science, everyday knowledge, or an arithmetic expression. What would you like to explore?
+hey | Hello there! I am ready to talk, learn from examples, and help with the topics I have been taught. You can ask about basic history, science, everyday knowledge, or an arithmetic expression. What would you like to explore?
+good morning | good morning to you.
+good afternoon | good afternoon to you.
+good evening | good evening to you.
+good night | good night and sleep well.
+goodbye | goodbye and have a good day.
+bye | goodbye and have a good day.
+see you later | see you later.
+nice to meet you | nice to meet you too.
+thank you | you are welcome.
+thanks | you are welcome.
+thank you for your help | you are welcome.
+please help me | please tell me what you need help with.
+can you help me? | please tell me what you need help with.
+i need some help | please tell me what you need help with.
+excuse me | yes how can i help?
+i am sorry | thank you for saying sorry.
+sorry about that | thank you for saying sorry.
+how are you? | i am ready to learn and talk.
+how are you doing? | i am ready to learn and talk.
+are you okay? | i am ready to learn and talk.
+can we talk? | yes we can talk in text.
+can you speak english? | i can produce text using learned english word connections.
+can you talk? | yes we can talk in text.
+are you human? | no i am a software system.
+are you a person? | no i am a software system.
+where do you run? | i run as software on a computer.
+where do you live? | i run as software on a computer.
+what do you do? | i learn word connections from text and dialogue examples.
+how do you work? | i connect word neurons using weighted synapses.
+can you learn? | training examples can add words and strengthen connections.
+what can you do? | i can train on text and generate text responses.
+can you make videos? | this application currently supports text.
+can you make a 3d model? | this application currently supports text.
+can you control my computer? | this application currently supports text.
+can you remember lessons? | saved brain files retain trained words and connections.
+how can i teach you? | use the teach command with a question and an answer.
+what does the text command do? | the text command trains word sequences from a sentence.
+what is a conversation? | a conversation is an exchange of messages.
+what is a question? | a question asks for information.
+what is an answer? | an answer responds to a question.
+please repeat that | please tell me which sentence to repeat.
+i do not understand | please tell me which part is unclear.
+what do you mean? | please tell me which part is unclear.
+please explain more simply | please tell me which topic to explain.
+can you give an example? | please tell me which topic needs an example.
+i disagree | please explain your view.
+that answer is wrong | please teach me the correct question and answer.
+you made a mistake | please teach me the correct question and answer.
+let us change the topic | what would you like to discuss?
+what should we talk about? | we can discuss words weather animals or daily activities.
+tell me something | practice and examples can help people learn a language.

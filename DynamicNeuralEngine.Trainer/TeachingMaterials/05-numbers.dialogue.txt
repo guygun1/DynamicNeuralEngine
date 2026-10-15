@@ -1,0 +1,51 @@
+# These are arithmetic examples, not an arithmetic algorithm.
+what is zero plus zero? | zero plus zero is zero.
+what is zero plus one? | zero plus one is one.
+what is one plus one? | one plus one is two.
+what is one plus two? | one plus two is three.
+what is two plus one? | two plus one is three.
+what is two plus two? | two plus two is four.
+what is two plus three? | two plus three is five.
+what is three plus two? | three plus two is five.
+what is three plus three? | three plus three is six.
+what is three plus four? | three plus four is seven.
+what is four plus three? | four plus three is seven.
+what is four plus four? | four plus four is eight.
+what is four plus five? | four plus five is nine.
+what is five plus four? | five plus four is nine.
+what is five plus five? | five plus five is ten.
+what is ten plus zero? | ten plus zero is ten.
+what is ten plus one? | ten plus one is eleven.
+what is ten plus two? | ten plus two is twelve.
+what is two minus one? | two minus one is one.
+what is three minus one? | three minus one is two.
+what is three minus two? | three minus two is one.
+what is four minus two? | four minus two is two.
+what is five minus two? | five minus two is three.
+what is five minus five? | five minus five is zero.
+what is ten minus five? | ten minus five is five.
+what is two times two? | two times two is four.
+what is two times three? | two times three is six.
+what is three times two? | three times two is six.
+what is three times three? | three times three is nine.
+what is four times two? | four times two is eight.
+what is five times two? | five times two is ten.
+what is four divided by two? | four divided by two is two.
+what is six divided by two? | six divided by two is three.
+what is six divided by three? | six divided by three is two.
+what is ten divided by two? | ten divided by two is five.
+what number comes after one? | two comes after one.
+what number comes after two? | three comes after two.
+what number comes after three? | four comes after three.
+what number comes after four? | five comes after four.
+what number comes before two? | one comes before two.
+what number comes before three? | two comes before three.
+what number comes before four? | three comes before four.
+how many sides does a triangle have? | a triangle has three sides.
+how many sides does a square have? | a square has four sides.
+how many sides does a rectangle have? | a rectangle has four sides.
+how many equal sides does a square have? | a square has four equal sides.
+what is half of four? | half of four is two.
+what is half of ten? | half of ten is five.
+is two an even number? | yes two is an even number.
+is three an odd number? | yes three is an odd number.

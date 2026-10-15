@@ -1,0 +1,23 @@
+# Explicit premises, not prewritten answers to the inference questions.
+# Controlled English currently supports is-a, has, needs, and is-in statements.
+A robin is a bird.
+A canary is a bird.
+A penguin is a bird.
+A bird is an animal.
+A cat is a mammal.
+A dog is a mammal.
+A mammal is an animal.
+An animal is a living organism.
+A plant is a living organism.
+A tree is a plant.
+A living organism needs energy.
+A plant needs water.
+A bird has wings.
+A mammal has a backbone.
+A solar eclipse is an astronomical event.
+An astronomical event is a natural phenomenon.
+The French Revolution is a revolution.
+A revolution is a political change.
+A political change is a historical event.
+Paris is in France.
+France is in Europe.

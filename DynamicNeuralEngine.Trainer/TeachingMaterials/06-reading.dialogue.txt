@@ -1,0 +1,22 @@
+# Explicit questions about the original micro-stories in 08-reading.sentences.txt.
+# Full story context is included in prompts; these do not imply conversational memory.
+mira puts a red book on the table. where is mira's book? | mira's book is on the table.
+mira puts a red book on the table. what color is the book? | the book is red.
+mira reads her book after lunch. when does mira read? | mira reads after lunch.
+leo carries an umbrella because it is raining. why does leo carry an umbrella? | leo carries an umbrella because it is raining.
+leo walks to the library. where does leo go? | leo goes to the library.
+leo borrows a book about birds. what is the book about? | the book is about birds.
+nora plants a seed in a pot. where does nora plant the seed? | nora plants the seed in a pot.
+nora waters the seed each morning. when does nora water the seed? | nora waters the seed each morning.
+a green shoot grows from nora's seed. what grows from the seed? | a green shoot grows from the seed.
+sam has three apples and gives one to a friend. how many apples remain? | sam has two apples left.
+sam shares an apple with a friend. who receives the apple? | sam's friend receives the apple.
+the blue bus stops near the school. where does the bus stop? | the blue bus stops near the school.
+the blue bus stops near the school. what color is the bus? | the bus is blue.
+ava feeds her cat before breakfast. when does ava feed her cat? | ava feeds her cat before breakfast.
+ava's cat sleeps on a chair. where does the cat sleep? | the cat sleeps on a chair.
+omar repairs a broken toy with glue. what does omar repair? | omar repairs a broken toy.
+omar repairs a broken toy with glue. what does omar use? | omar uses glue.
+rain stops and the children go outside. what happens before the children go outside? | the rain stops before the children go outside.
+ella writes a letter to her grandmother. who receives ella's letter? | ella's grandmother receives the letter.
+ella puts the letter in an envelope. where does ella put the letter? | ella puts the letter in an envelope.

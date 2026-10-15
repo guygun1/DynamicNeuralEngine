@@ -1,0 +1,51 @@
+# Daily life, time, places, objects, and introductory computing.
+where can people borrow books? | people can borrow books from a library.
+what is a library? | a library is a place for reading and borrowing books.
+what is a school? | a school is a place where students learn.
+what does a teacher do? | a teacher helps students learn.
+what does a doctor do? | a doctor helps care for people's health.
+what does a farmer do? | a farmer grows crops or raises animals.
+what does a baker do? | a baker makes bread and other baked food.
+where do people buy food? | people can buy food at a shop or market.
+what is a kitchen? | a kitchen is a room used for preparing food.
+what is a bedroom? | a bedroom is a room used for sleeping.
+what is a chair used for? | a chair is used for sitting.
+what is a table used for? | a table supports objects at a convenient height.
+what is a cup used for? | a cup holds a drink.
+what is a spoon used for? | a spoon is used for eating or serving food.
+what is an umbrella used for? | an umbrella can help keep rain off a person.
+what is a coat used for? | a coat helps keep a person warm.
+what is a key used for? | a key can lock or unlock a matching lock.
+what is a clock used for? | a clock shows the time.
+how many days are in a week? | there are seven days in a week.
+how many months are in a year? | there are twelve months in a year.
+how many hours are in a day? | there are twenty four hours in a day.
+how many minutes are in an hour? | there are sixty minutes in an hour.
+how many seconds are in a minute? | there are sixty seconds in a minute.
+what day comes after monday? | tuesday comes after monday.
+what day comes after tuesday? | wednesday comes after tuesday.
+what day comes after wednesday? | thursday comes after wednesday.
+what day comes after thursday? | friday comes after thursday.
+what day comes after friday? | saturday comes after friday.
+what day comes after saturday? | sunday comes after saturday.
+what day comes after sunday? | monday comes after sunday.
+what does yesterday mean? | yesterday is the day before today.
+what does tomorrow mean? | tomorrow is the day after today.
+what is morning? | morning is the early part of the day.
+what is evening? | evening is the later part of the day before night.
+what is a computer? | a computer is a machine that processes information.
+what is software? | software is a set of instructions for a computer.
+what is hardware? | hardware is the physical equipment of a computer.
+what is a keyboard? | a keyboard is an input device with keys.
+what is a computer mouse? | a computer mouse is a pointing input device.
+what is a monitor? | a monitor displays visual information from a computer.
+what is a file? | a file is a named collection of stored data.
+what is a folder? | a folder organizes files and other folders.
+what is computer memory? | computer memory holds data used by running programs.
+what is a program? | a program is a set of instructions a computer can execute.
+what is text? | text is written language represented by characters.
+what is a word? | a word is a unit of language with meaning or grammatical function.
+what is a neuron in this engine? | a neuron is a node in the neural graph.
+what is a synapse in this engine? | a synapse is a weighted connection between neurons.
+what is training in this engine? | training adds words and changes weighted connections.
+what is a brain file? | a brain file stores the engine's vocabulary and neural graph.

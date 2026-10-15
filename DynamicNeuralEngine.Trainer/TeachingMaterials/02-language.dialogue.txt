@@ -1,0 +1,61 @@
+# Grammar, vocabulary, meaning, and simple usage.
+what is a noun? | a noun names a person place thing or idea.
+give an example of a noun | book is a noun.
+what is a verb? | a verb describes an action or a state.
+give an example of a verb | run is a verb.
+what is an adjective? | an adjective describes a noun.
+give an example of an adjective | blue is an adjective.
+what is an adverb? | an adverb can describe how an action happens.
+give an example of an adverb | slowly is an adverb.
+what is a pronoun? | a pronoun can take the place of a noun.
+give an example of a pronoun | she is a pronoun.
+what is a sentence? | a sentence expresses a complete thought.
+what starts a written sentence? | a written sentence usually starts with a capital letter.
+what ends a question? | a question mark ends a written question.
+what ends a statement? | a period usually ends a written statement.
+what does a comma do? | a comma separates parts of a sentence.
+what is the plural of cat? | the plural of cat is cats.
+what is the plural of dog? | the plural of dog is dogs.
+what is the plural of book? | the plural of book is books.
+what is the plural of child? | the plural of child is children.
+what is the plural of person? | the plural of person is people.
+what is the plural of mouse? | the plural of mouse is mice.
+what is the past tense of walk? | the past tense of walk is walked.
+what is the past tense of play? | the past tense of play is played.
+what is the past tense of go? | the past tense of go is went.
+what is the past tense of eat? | the past tense of eat is ate.
+what is the past tense of see? | the past tense of see is saw.
+what is the opposite of hot? | the opposite of hot is cold.
+what is the opposite of cold? | the opposite of cold is hot.
+what is the opposite of big? | the opposite of big is small.
+what is the opposite of small? | the opposite of small is big.
+what is the opposite of happy? | the opposite of happy is sad.
+what is the opposite of open? | the opposite of open is closed.
+what is the opposite of fast? | the opposite of fast is slow.
+what is the opposite of up? | the opposite of up is down.
+what is the opposite of near? | the opposite of near is far.
+what is the opposite of early? | the opposite of early is late.
+what is another word for large? | big is another word for large.
+what is another word for small? | little is another word for small.
+what is another word for quick? | fast is another word for quick.
+what is another word for begin? | start is another word for begin.
+what is another word for finish? | end is another word for finish.
+what does before mean? | before means earlier in time or order.
+what does after mean? | after means later in time or order.
+what does under mean? | under means below something.
+what does above mean? | above means higher than something.
+what does between mean? | between describes a position with something on each side.
+what does because mean? | because introduces a reason.
+what does and mean? | and joins words or ideas.
+what does but mean? | but introduces a contrast.
+what does if mean? | if introduces a condition.
+when do we use an? | use an before a word beginning with a vowel sound.
+give a sentence with an | an apple is on the table.
+give a sentence with a | a book is on the shelf.
+give a present tense sentence | the child reads a book.
+give a past tense sentence | the child read a book yesterday.
+give a future tense sentence | the child will read a book tomorrow.
+give a negative sentence | the door is not open.
+give a question sentence | where is the book?
+how do i ask politely? | use please when making a request.
+how do i say i am grateful? | say thank you.

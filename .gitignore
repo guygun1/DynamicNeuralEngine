@@ -1,0 +1,6 @@
+# Local model state and build artifacts.
+/models/
+/cmake-build-*/
+**/bin/
+**/obj/
+*.writing

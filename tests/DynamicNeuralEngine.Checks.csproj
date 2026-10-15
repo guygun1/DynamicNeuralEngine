@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DynamicNeuralEngine.Trainer\DynamicNeuralEngine.Trainer.csproj" />
+    <None Include="..\cmake-build-debug\native\DynamicNeuralEngine.dll" Link="DynamicNeuralEngine.dll" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

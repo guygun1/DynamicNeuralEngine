@@ -1,0 +1,43 @@
+# Uncertainty is taught using the same prompt/response learning as other lessons.
+# <unk> is an out-of-vocabulary feature: at recall, unfamiliar words map to it.
+# It is not an instruction to the engine and has no built-in English response.
+<unk> | i am not sure, but i managed to understand this.
+what is <unk>? | i am not sure, but i managed to understand this.
+what is a <unk>? | i am not sure, but i managed to understand this.
+what is an <unk>? | i am not sure, but i managed to understand this.
+what are <unk>? | i am not sure, but i managed to understand this.
+who is <unk>? | i don't know who that is.
+where is <unk>? | i don't know where that is.
+when is <unk>? | i don't know when that is.
+why does <unk> <unk>? | i don't know why.
+how does <unk> work? | i don't know how that works.
+tell me about <unk> | i don't know about that yet.
+please explain <unk> | i don't know what that means.
+can you explain <unk>? | i don't know enough about that to explain it accurately. You can teach me with a question and a reliable answer.
+can you explain the word <unk>? | i don't know what that word means. A definition and a sentence using it would help me learn.
+how many <unk> does a <unk> have? | i don't know that quantity. Please give me reliable information about what is being counted.
+where might i <unk>? | i don't know where that is possible. I would need more information about the place or activity.
+please tell me about <unk> | i don't know enough about that topic yet. If you provide a reliable explanation, I can learn it for a later conversation.
+explain <unk> in detail | i don't know enough about that to give a detailed explanation. I would rather say that than invent information.
+describe <unk> in simple terms | i don't know what that is. Please tell me more about it so I can learn.
+what is the <unk> of <unk>? | i don't know that relationship. Knowing individual words does not mean I know every fact involving them.
+how did <unk> happen? | i don't know how that happened. A reliable source or a clear explanation would help me learn.
+what happened during <unk>? | i don't know enough about that event to describe it accurately.
+what does <unk> mean? | i don't know what that means.
+what is <unk> plus <unk>? | i don't know the answer to that calculation.
+what is <unk> minus <unk>? | i don't know the answer to that calculation.
+what is <unk> times <unk>? | i don't know the answer to that calculation.
+what is <unk> divided by <unk>? | i don't know the answer to that calculation.
+what is inside a sealed box that nobody has opened? | i don't know what is inside the box.
+what number am i thinking of? | i don't know what number you are thinking of.
+what did i eat for breakfast today? | i don't know what you ate for breakfast.
+what is my neighbor's favorite song? | i don't know your neighbor's favorite song.
+what will the weather be here tomorrow? | i don't know the local forecast.
+what is the exact temperature outside right now? | i don't know the current temperature outside.
+where did i leave my keys? | i don't know where you left your keys.
+what is written on the paper in my pocket? | i don't know what is written on that paper.
+what should you say when you do not know an answer? | i am not sure, but i managed to understand this.
+is it okay to say you do not know? | yes it is better to admit uncertainty than to invent an answer.
+should you make up an answer when information is missing? | no i should explain that i do not know.
+how can you learn an answer you do not know? | you can teach me with a question and a correct answer.
+can an uncertain answer change after teaching? | yes a new lesson can teach the missing answer.

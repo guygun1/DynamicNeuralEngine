@@ -1,0 +1,17 @@
+# Held-out wording for topic recall. Expected phrases are intentionally simple.
+# This file is excluded from training, and is not a general-language benchmark.
+hello there | hello
+please tell me what a noun is | noun
+can you explain the word verb | action
+tell me the plural of child | children
+tell me the opposite of hot | cold
+please explain what ice is | frozen water
+tell me about the sun | star
+tell me what roots do | water
+where might i borrow books | library
+tell me what a keyboard is | keys
+how many days does a week have | seven
+please tell me two plus two | 4
+please tell me three plus three | 6
+mira puts a red book on the table. tell me where the book is | table
+leo borrows a book about birds. tell me what the book is about | birds
