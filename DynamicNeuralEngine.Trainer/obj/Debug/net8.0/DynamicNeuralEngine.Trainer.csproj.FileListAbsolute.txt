@@ -1,0 +1,14 @@
+C:\Users\Guy\Documents\IdeaProjects\DynamicNeuralEngine\DynamicNeuralEngine.Trainer\bin\Debug\net8.0\DynamicNeuralEngine.Trainer.exe
+C:\Users\Guy\Documents\IdeaProjects\DynamicNeuralEngine\DynamicNeuralEngine.Trainer\bin\Debug\net8.0\DynamicNeuralEngine.Trainer.deps.json
+C:\Users\Guy\Documents\IdeaProjects\DynamicNeuralEngine\DynamicNeuralEngine.Trainer\bin\Debug\net8.0\DynamicNeuralEngine.Trainer.runtimeconfig.json
+C:\Users\Guy\Documents\IdeaProjects\DynamicNeuralEngine\DynamicNeuralEngine.Trainer\bin\Debug\net8.0\DynamicNeuralEngine.Trainer.dll
+C:\Users\Guy\Documents\IdeaProjects\DynamicNeuralEngine\DynamicNeuralEngine.Trainer\bin\Debug\net8.0\DynamicNeuralEngine.Trainer.pdb
+C:\Users\Guy\Documents\IdeaProjects\DynamicNeuralEngine\DynamicNeuralEngine.Trainer\obj\Debug\net8.0\DynamicNeuralEngine.Trainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guy\Documents\IdeaProjects\DynamicNeuralEngine\DynamicNeuralEngine.Trainer\obj\Debug\net8.0\DynamicNeuralEngine.Trainer.AssemblyInfoInputs.cache
+C:\Users\Guy\Documents\IdeaProjects\DynamicNeuralEngine\DynamicNeuralEngine.Trainer\obj\Debug\net8.0\DynamicNeuralEngine.Trainer.AssemblyInfo.cs
+C:\Users\Guy\Documents\IdeaProjects\DynamicNeuralEngine\DynamicNeuralEngine.Trainer\obj\Debug\net8.0\DynamicNeuralEngine.Trainer.csproj.CoreCompileInputs.cache
+C:\Users\Guy\Documents\IdeaProjects\DynamicNeuralEngine\DynamicNeuralEngine.Trainer\obj\Debug\net8.0\DynamicNeuralEngine.Trainer.dll
+C:\Users\Guy\Documents\IdeaProjects\DynamicNeuralEngine\DynamicNeuralEngine.Trainer\obj\Debug\net8.0\refint\DynamicNeuralEngine.Trainer.dll
+C:\Users\Guy\Documents\IdeaProjects\DynamicNeuralEngine\DynamicNeuralEngine.Trainer\obj\Debug\net8.0\DynamicNeuralEngine.Trainer.pdb
+C:\Users\Guy\Documents\IdeaProjects\DynamicNeuralEngine\DynamicNeuralEngine.Trainer\obj\Debug\net8.0\DynamicNeuralEngine.Trainer.genruntimeconfig.cache
+C:\Users\Guy\Documents\IdeaProjects\DynamicNeuralEngine\DynamicNeuralEngine.Trainer\obj\Debug\net8.0\ref\DynamicNeuralEngine.Trainer.dll

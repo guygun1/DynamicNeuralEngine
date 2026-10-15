@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <!-- Fallback target to copy DLL if manual building is done -->
+  <Target Name="CopyCppDll" AfterTargets="Build">
+    <Copy SourceFiles="..\cmake-build-debug\DynamicNeuralEngine.dll"
+          DestinationFolder="$(OutputPath)"
+          Condition="Exists('..\cmake-build-debug\DynamicNeuralEngine.dll')" />
+  </Target>
+
+</Project>
